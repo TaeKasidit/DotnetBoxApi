@@ -1,0 +1,14 @@
+C:\VS2013\GraphQL\ApiBox\bin\Debug\netcoreapp2.0\ApiBox.deps.json
+C:\VS2013\GraphQL\ApiBox\bin\Debug\netcoreapp2.0\ApiBox.runtimeconfig.json
+C:\VS2013\GraphQL\ApiBox\bin\Debug\netcoreapp2.0\ApiBox.runtimeconfig.dev.json
+C:\VS2013\GraphQL\ApiBox\bin\Debug\netcoreapp2.0\ApiBox.dll
+C:\VS2013\GraphQL\ApiBox\bin\Debug\netcoreapp2.0\ApiBox.pdb
+C:\VS2013\GraphQL\ApiBox\bin\Debug\netcoreapp2.0\ApiBox.xml
+C:\VS2013\GraphQL\ApiBox\obj\Debug\netcoreapp2.0\ApiBox.csprojResolveAssemblyReference.cache
+C:\VS2013\GraphQL\ApiBox\obj\Debug\netcoreapp2.0\ApiBox.csproj.CoreCompileInputs.cache
+C:\VS2013\GraphQL\ApiBox\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\VS2013\GraphQL\ApiBox\obj\Debug\netcoreapp2.0\ApiBox.AssemblyInfoInputs.cache
+C:\VS2013\GraphQL\ApiBox\obj\Debug\netcoreapp2.0\ApiBox.AssemblyInfo.cs
+C:\VS2013\GraphQL\ApiBox\obj\Debug\netcoreapp2.0\ApiBox.dll
+C:\VS2013\GraphQL\ApiBox\obj\Debug\netcoreapp2.0\ApiBox.xml
+C:\VS2013\GraphQL\ApiBox\obj\Debug\netcoreapp2.0\ApiBox.pdb
